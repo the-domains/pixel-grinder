@@ -1,0 +1,28 @@
+name: Pixel Grinder
+favicon: null
+layout_spectrum: 0.8107252155896276
+typography_spectrum: 0.3805571796838194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09293304244056344
+  lightness: 0.14337190962396562
+  saturation: 0.8548423945903778
+  rhythmicContrast: 0.3098432181868702
+purpose: []
