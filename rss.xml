@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pixel Grinder]]></title>
         <description><![CDATA[Pixel Grinder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thegrind.ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 09:19:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 09:28:51 GMT</lastBuildDate>
+        <atom:link href="http://thegrind.ai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unity GDC demo - Adam - Part I]]></title>
+            <description><![CDATA[<article><h1>Unity GDC demo - Adam - Part I</h1><p>This is the first part of our real-time rendered short film "Adam", created with the Unity engine by Unity's Demo team. The full length short will be shown at Unite Europe 2016 in Amsterdam. It runs at 1440p on a GTX980 standard edition. http://unity3d.com/pages/adam?utm_source=youtube&utm_medium=social&utm_campaign=demos-showcase-2016-03-15-Global-AdamPartOne</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=44M7JsKqwow</link>
+            <guid isPermaLink="false">fef15c51-5134-41d4-aab1-72a9d4ad64c9</guid>
+            <pubDate>Fri, 01 Apr 2016 09:28:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62dbb4a3-9a89-4387-9272-c68d32f59770.png">]]></description>
-            <link>undefined9c13691d-57c0-466d-b417-7ee3e7d20062/index.html</link>
+            <link>http://thegrind.ai/9c13691d-57c0-466d-b417-7ee3e7d20062/index.html</link>
             <guid isPermaLink="false">9c13691d-57c0-466d-b417-7ee3e7d20062</guid>
             <pubDate>Fri, 01 Apr 2016 09:19:08 GMT</pubDate>
         </item>
