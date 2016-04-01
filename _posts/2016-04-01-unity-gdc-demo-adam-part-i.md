@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Unity
-    url: 'https://www.youtube.com/user/Unity3D'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=44M7JsKqwow'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - gdc
@@ -21,7 +17,13 @@ keywords:
   - cryengine
   - rajmangaming
 description: "This is the first part of our real-time rendered short film \"Adam\", created with the Unity engine by Unity's Demo team. The full length short will be shown at Unite Europe 2016 in Amsterdam. It runs at 1440p on a GTX980 standard edition. http://unity3d.com/pages/adam?utm_source=youtube&utm_medium=social&utm_campaign=demos-showcase-2016-03-15-Global-AdamPartOne"
-inLanguage: en
+datePublished: '2016-04-01T13:25:22.036Z'
+dateModified: '2016-04-01T09:28:42.087Z'
+author:
+  - name: Unity
+    url: 'https://www.youtube.com/user/Unity3D'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=44M7JsKqwow&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=44M7JsKqwow'
 title: Unity GDC demo - Adam - Part I
-datePublished: '2016-04-01T09:28:04.767Z'
-dateModified: '2016-04-01T09:27:23.111Z'
 sourcePath: _posts/2016-04-01-unity-gdc-demo-adam-part-i.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
